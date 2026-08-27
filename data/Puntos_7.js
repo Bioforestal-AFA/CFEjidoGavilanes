@@ -1,1 +1,0 @@
-var json_Puntos_7 = {"type":"FeatureCollection","name":"Puntos_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Actividad":"Vivero","Img":"Img/2026vivero.jpg","X_COORD":315910.33,"Y_COORD":2156008.647},"geometry":{"type":"Point","coordinates":[-88.754058710859979,19.490198412942551]}}]}
