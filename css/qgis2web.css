@@ -49,8 +49,8 @@
             min-width: 75px;
         }
         .leaflet-popup-content td img {
-            max-height: 10vh;
-            max-width: 10vw;
+            max-height: 20vh;
+            max-width: 20vw;
         }
 
         .leaflet-tooltip {
